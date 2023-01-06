@@ -1,0 +1,5 @@
+subnet_availability_zone = "us-east-1a"
+subnet_cidr_block = "10.0.1.0/24"
+aws_region = "us-east-1"
+key_name = "smmKey"
+instance_type = "t2.micro"
