@@ -1,9 +1,9 @@
 # terraform-ec2-vpc-subnet
-This projects was implemented on a dev container with, AWS CLI and Terraform installed.
+This projects was implemented on a devcontainer with, AWS CLI and Terraform installed.
 
-This repository has creates following components:
+This repository has the following components:
 - vpc
-- public subnets 
+- public subnet
 - internet gateway to the VPC
 - route table for a public subnet
 - security groups to allow specific traffic
